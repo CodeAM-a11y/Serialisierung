@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="Aufgabe1/Aufgabe1.csproj" />
   <Project Path="Aufgabe2/Aufgabe2.csproj" />
+  <Project Path="Aufgabe2b/Aufgabe2b.csproj" />
   <Project Path="Serialisierung/Serialisierung.csproj" />
 </Solution>
